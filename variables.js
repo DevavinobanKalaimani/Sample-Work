@@ -1,0 +1,8 @@
+let ask = (question, yes, no) => {
+    if(confirm(question)) yes();
+    else no()
+ 
+}
+ ask("Do u Agree?",
+ () => alert("u agreed"),
+ () => alert("u cancelled"));

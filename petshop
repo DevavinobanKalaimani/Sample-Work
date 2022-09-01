@@ -1,0 +1,41 @@
+<?DOCTYPE html>
+<html>
+<head>
+<title>PET SHOP</title>
+</head>
+<body>
+<h1>Hi!! Welcome to our Shop</h1>
+<h2>A variety of animal supplies and pet accessories, with the products like food, treats, toys, collars, leashes, cat litter, cages and aquariums.</h2>
+<img src="pet.jpg" width="1100", height="500">
+<h2>Adapting means you save a life</h2>
+<ul>
+<li>Too often, shelters euthanize animals due to room constraints, but if more people adopted pets instead of buying them, the number of pets euthanized would lower dramatically.</li>
+<li>When you adopt, not only do you save your loving new companion, but you make space for other animals who desperately need it, creating a domino effect of goodness.</li>
+</ul>
+<div id="dog">
+<h2>Dogs</h2>
+<p>Our canine companion can offer comfort and ease your worries. Multiple studies show that dogs and therapy dogs help alleviate stress and anxiety. Even just petting a familiar dog lowers blood pressure, heart rate, slows breathing, and relaxes muscle tension. <a href="dog.html">To Buy</a></p>
+</div>
+<div id="cat">
+<h2>Cats</h2>
+<p>Some people think cats are snobby or unfriendly. While cats are extremely hard to study, researchers are making progress. Recent studies suggest that cats make great companions and pets. Cats purr at a frequency that could benefit your health and love their owners just as much as dogs do. <a href="cat.html">To Buy</a></p>
+</div>
+<div id="parrot">
+<h2>Birds</h2>
+<p>Species do well with well-behaved children, and can be excellent family pets, they are generally not a good child's pet due to their potential lifespan and care required. Parrots require consistent daily care and attention and are also longer lived than most other companion animals. <a href="birds.html">To Buy</a></p>
+</div>
+<div id="about">
+<h2>About us</h2>
+<p>
+A retail business which sells animals and pet care resources to the public. A variety of animal supplies and pet accessories are also sold in pet shops. The products sold include: food, treats, toys, collars, leashes, cat litter, cages and aquariums.</p>
+<h2>Contact us</h2>
+<p>
+Address: #####<br>
+contact no: #####<br>
+mail: #####<br>
+</p>
+</div>
+</body>
+<footer>
+&copy;Reserved by .....</footer>
+</html>

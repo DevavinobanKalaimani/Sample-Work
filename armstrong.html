@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <script>
+            let sum=0, r, temp;
+            let a=prompt('enter the number');
+            temp=a;
+            while(a>0){
+                r=a%10;
+                sum+=(r*r*r);
+                a=parseInt(a/10);
+            }
+                if(temp==sum){
+                    alert('Yeah! its an Armstrong number');
+                }else{
+                    alert('OOPS! its not an armstrong number');
+            }            
+        </script>    
+        </body>
+</html>
